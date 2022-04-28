@@ -64,3 +64,13 @@ z = True;
 ```
 2333 Hello world! True
 ```
+## 函数调用
+函数调用像大多数编程语言一样,你可以进行传参等操作 <br />
+```html
+<script src="tnt.js"></script>
+<tnt>
+    x = 2333;
+    print(x)
+</tnt>
+```
+此时会看到控制台输出`2333`
